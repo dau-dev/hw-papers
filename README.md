@@ -11,7 +11,6 @@ Organized by topic
 - Computing's Energy Problem [[link]](http://ieeexplore.ieee.org/document/6757323/)
 - Pursue robust indefinite scalability [[link]](http://static.usenix.org/events/hotos11/tech/final_files/Ackley.pdf)
 
----
 
 ## Architecture
 - Architecture Support for Accelerator-Rich CMPs
@@ -38,7 +37,6 @@ Organized by topic
 - Implementing Latency-Insensitive Dataflow Blocks
 - The Role of Back-Pressure in Implementing Latency-Insensitive Systems
 
----
 
 ## Language, Simulation, and Synthesis
 - Aladdin: A Pre-RTL, Power-Performance Accelerator Simulator Enabling Large Design Space Exploration of Customized Architectures
@@ -52,21 +50,16 @@ Organized by topic
 - Quo Vadis, SLD? Reasoning About the Trends and Challenges of System Level Design
 - Synthesis-friendly techniques for tightly-coupled integration of hardware accelerators into shared-memory multi-core clusters
 
----
 
 ## Accelerators
 
----
 
 ## Memory
 
----
 
 ## Security
 
----
 
 ## Other
 
----
 
