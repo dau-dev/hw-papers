@@ -76,7 +76,7 @@ Organized by topic
 - Neural Acceleration for General-Purpose Approximate Programs
 - Neural Network Stream Processing Core (NnSP) for Embedded Systems
 - Probabilistic synaptic weighting in a reconfigurable network of VLSI integrate-and-fire neurons
-- a 201.4 GOPS 496 mW Real-Time Multi-Object Recognition Processor With Bio-Inspired Neural Perception Engine
+- A 201.4 GOPS 496 mW Real-Time Multi-Object Recognition Processor With Bio-Inspired Neural Perception Engine
 - Recurrant Neural Networks Hardware Implementation on FPGA
 - Silicon Neurons That Compute
 - SNNAP: Approximate Computing on Programmable SoCs via Neural Acceleration
@@ -102,3 +102,5 @@ Organized by topic
 - Stealing Keys from PCs using a Radio: Cheap Electromagnetic Attacks on Windowed Exponentiation
 
 ## Other
+- The Manchester Prototype Dataflow Computer
+
