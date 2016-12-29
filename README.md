@@ -37,16 +37,16 @@ Organized by topic. Will reorganize as I go.
 - The Role of Back-Pressure in Implementing Latency-Insensitive Systems [[link]](http://www.cs.columbia.edu/~luca/research/rbilsENTCS06.pdf)
 
 ## Language, Simulation, and Synthesis
-- Aladdin: A Pre-RTL, Power-Performance Accelerator Simulator Enabling Large Design Space Exploration of Customized Architectures
-- Benchmarking Methodology for Embedded Scalable Platforms
-- Darkroom: Compiling High-Level Image Processing Code into Hardware Pipelines
-- Simulating DRAM controllers for future system architecture exploration
-- FPGA Acceleration by Dynamically-Loaded Hardware Libraries
-- Hardware Synthesis from a Recursive Functional Language
-- MachSuite: Benchmarks for Accelerator Design and Customized Architectures
+- Aladdin: A Pre-RTL, Power-Performance Accelerator Simulator Enabling Large Design Space Exploration of Customized Architectures [[link]](https://pdfs.semanticscholar.org/5777/7460aad90e3cceac62913588a76b2607ca9e.pdf)
+- Benchmarking Methodology for Embedded Scalable Platforms [[link]](http://arcade.cs.columbia.edu/esp-seak14.pdf)
+- Darkroom: Compiling High-Level Image Processing Code into Hardware Pipelines [[link]](http://graphics.stanford.edu/papers/darkroom14/darkroom14.pdf)
+- Simulating DRAM controllers for future system architecture exploration [[link]](https://pdfs.semanticscholar.org/4dd6/9c412369b729aeb1e9aee37d3f41c5a20e14.pdf)
+- FPGA Acceleration by Dynamically-Loaded Hardware Libraries [[link]](http://orbit.dtu.dk/ws/files/126373186/tr16_03_Nannarelli_A.pdf)
+- Hardware Synthesis from a Recursive Functional Language [[link]](http://arcade.cs.columbia.edu/hardware-codes15.pdf)
+- MachSuite: Benchmarks for Accelerator Design and Customized Architectures [[link]](http://www.eecs.harvard.edu/~shao/papers/machsuite.pdf)
 - Putting the LID on Haskell: From a Functional Language to Latency-Insensitive Hardware
-- Quo Vadis, SLD? Reasoning About the Trends and Challenges of System Level Design
-- Synthesis-friendly techniques for tightly-coupled integration of hardware accelerators into shared-memory multi-core clusters
+- Quo Vadis, SLD? Reasoning About the Trends and Challenges of System Level Design [[link]](http://ieeexplore.ieee.org/document/4167779/)
+- Synthesis-friendly techniques for tightly-coupled integration of hardware accelerators into shared-memory multi-core clusters [[link]](http://ieeexplore.ieee.org/document/6658992/)
 
 ## Accelerators
 - A Defect-Tolerant Accelerator for Emerging High-Performance Applications
