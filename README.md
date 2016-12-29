@@ -11,21 +11,52 @@ Organized by topic
 - Computing's Energy Problem [[link]](http://ieeexplore.ieee.org/document/6757323/)
 - Pursue robust indefinite scalability [[link]](http://static.usenix.org/events/hotos11/tech/final_files/Ackley.pdf)
 
-### Architecture
+---
 
+### Architecture
+- Architecture Support for Accelerator-Rich CMPs
+- A Framework for Comparing Models of Computation
+- Compositional System-Level Design Exploration with Planning of High-Level Synthesis
+- Design Perspectives on 22nm CMOS and Beyond
+- Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism
+- Efficient Interaction between OS and Architecture in Heterogeneous Platforms
+- The Discipline of Embedded Systems Design
+- IBM Power Edge of Network Processor: A Wire-Speed System on a Chip
+- Integrated Anaylsis of Power and Performance for Pipelined Microprocessors
+- The Optimum Pipeline Depth for a Microprocessor
+- A Case for OS-Friendly Hardware Accelerators
+- Petri Nets: Properties, Analysis and Applications
+- The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors
+- Short-Circuiting Memory Traffic in Handheld Platforms
+- Supervised Design Space Exploration of Compositional Approximation of Pareto Sets
+- Topology-Based Performance Analysis and Optimization of Latency-Insensitive Systems
+- Understanding Sources of Inefficiency in General-Purpose Chips
+
+#### Latency-Insensitive Design
+- Coping With Latency in SOC Design
+- A Methodology for Correct-by-Construction Latency Insensitive Design
+- Implementing Latency-Insensitive Dataflow Blocks
+- The Role of Back-Pressure in Implementing Latency-Insensitive Systems
+
+---
 
 ### Language, Simulation, and Synthesis
 
+---
 
 ### Accelerators
 
+---
 
 ### Memory
 
+---
 
 ### Security
 
+---
 
 ### Other
 
+---
 
