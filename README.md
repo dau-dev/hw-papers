@@ -5,7 +5,7 @@ Organized by topic
 
 ---
 
-### History and Scaling
+## History and Scaling
 - CPU DB [[link]](http://queue.acm.org/detail.cfm?id=2181798)
 - Dark Silicon and the End of Multicore Scaling [[link]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.363.8520&rep=rep1&type=pdf)
 - Computing's Energy Problem [[link]](http://ieeexplore.ieee.org/document/6757323/)
@@ -13,7 +13,7 @@ Organized by topic
 
 ---
 
-### Architecture
+## Architecture
 - Architecture Support for Accelerator-Rich CMPs
 - A Framework for Comparing Models of Computation
 - Compositional System-Level Design Exploration with Planning of High-Level Synthesis
@@ -40,23 +40,33 @@ Organized by topic
 
 ---
 
-### Language, Simulation, and Synthesis
+## Language, Simulation, and Synthesis
+- Aladdin: A Pre-RTL, Power-Performance Accelerator Simulator Enabling Large Design Space Exploration of Customized Architectures
+- Benchmarking Methodology for Embedded Scalable Platforms
+- Darkroom: Compiling High-Level Image Processing Code into Hardware Pipelines
+- Simulating DRAM controllers for future system architecture exploration
+- FPGA Acceleration by Dynamically-Loaded Hardware Libraries
+- Hardware Synthesis from a Recursive Functional Language
+- MachSuite: Benchmarks for Accelerator Design and Customized Architectures
+- Putting the LID on Haskell: From a Functional Language to Latency-Insensitive Hardware
+- Quo Vadis, SLD? Reasoning About the Trends and Challenges of System Level Design
+- Synthesis-friendly techniques for tightly-coupled integration of hardware accelerators into shared-memory multi-core clusters
 
 ---
 
-### Accelerators
+## Accelerators
 
 ---
 
-### Memory
+## Memory
 
 ---
 
-### Security
+## Security
 
 ---
 
-### Other
+## Other
 
 ---
 
