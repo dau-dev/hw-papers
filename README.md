@@ -21,20 +21,20 @@ Organized by topic
 - The Discipline of Embedded Systems Design [[link]](http://www-verimag.imag.fr/~sifakis/Computer_ESdiscipline.pdf)
 - IBM Power Edge of Network Processor: A Wire-Speed System on a Chip [[link]](http://dl.acm.org/citation.cfm?id=1978281)
 - Integrated Anaylsis of Power and Performance for Pipelined Microprocessors [[link]](http://dl.acm.org/citation.cfm?id=2250077)
-- The Optimum Pipeline Depth for a Microprocessor
-- A Case for OS-Friendly Hardware Accelerators
-- Petri Nets: Properties, Analysis and Applications
-- The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors
-- Short-Circuiting Memory Traffic in Handheld Platforms
-- Supervised Design Space Exploration of Compositional Approximation of Pareto Sets
-- Topology-Based Performance Analysis and Optimization of Latency-Insensitive Systems
-- Understanding Sources of Inefficiency in General-Purpose Chips
+- The Optimum Pipeline Depth for a Microprocessor [[link]](http://researcher.watson.ibm.com/researcher/files/us-viji/optimum_pipeline.pdf)
+- A Case for OS-Friendly Hardware Accelerators [[link]](http://hwacha.org/papers/osaccel-wivosca2013.pdf)
+- Petri Nets: Properties, Analysis and Applications [[link]](https://inst.eecs.berkeley.edu/~ee249/fa07/discussions/PetriNets-Murata.pdf)
+- The Scalable Commutativity Rule: Designing Scalable Software for Multicore Processors [[link]](http://people.csail.mit.edu/nickolai/papers/clements-sc.pdf)
+- Short-Circuiting Memory Traffic in Handheld Platforms [[link]](http://www.cse.psu.edu/hpcl/docs/2014_MICRO_Praveen.pdf)
+- Supervised Design Space Exploration of Compositional Approximation of Pareto Sets [[link]](http://www.iliasdiakonikolas.org/papers/dac-pareto.pdf)
+- Topology-Based Performance Analysis and Optimization of Latency-Insensitive Systems [[link]](http://www.cs.columbia.edu/~luca/)
+- Understanding Sources of Inefficiency in General-Purpose Chips [[link]](http://csl.stanford.edu/~christos/publications/2010.efficiency.isca.pdf)
 
 #### Latency-Insensitive Design
-- Coping With Latency in SOC Design
-- A Methodology for Correct-by-Construction Latency Insensitive Design
-- Implementing Latency-Insensitive Dataflow Blocks
-- The Role of Back-Pressure in Implementing Latency-Insensitive Systems
+- Coping With Latency in SOC Design [[link]](http://www.cs.columbia.edu/~luca/research/lidMicro02.pdf)
+- A Methodology for Correct-by-Construction Latency Insensitive Design [[link]](http://www.cs.columbia.edu/~luca/research/lidICCAD99.pdf)
+- Implementing Latency-Insensitive Dataflow Blocks [[link]](http://arcade.cs.columbia.edu/lid-memocode15.pdf)
+- The Role of Back-Pressure in Implementing Latency-Insensitive Systems [[link]](http://www.cs.columbia.edu/~luca/research/rbilsENTCS06.pdf)
 
 ## Language, Simulation, and Synthesis
 - Aladdin: A Pre-RTL, Power-Performance Accelerator Simulator Enabling Large Design Space Exploration of Customized Architectures
