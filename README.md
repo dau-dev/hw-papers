@@ -12,15 +12,15 @@ Organized by topic
 - Pursue robust indefinite scalability [[link]](http://static.usenix.org/events/hotos11/tech/final_files/Ackley.pdf)
 
 ## Architecture
-- Architecture Support for Accelerator-Rich CMPs
-- A Framework for Comparing Models of Computation
-- Compositional System-Level Design Exploration with Planning of High-Level Synthesis
-- Design Perspectives on 22nm CMOS and Beyond
-- Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism
-- Efficient Interaction between OS and Architecture in Heterogeneous Platforms
-- The Discipline of Embedded Systems Design
-- IBM Power Edge of Network Processor: A Wire-Speed System on a Chip
-- Integrated Anaylsis of Power and Performance for Pipelined Microprocessors
+- Architecture Support for Accelerator-Rich CMPs [[link]](http://cadlab.cs.ucla.edu/~cong/papers/saw2011.pdf)
+- A Framework for Comparing Models of Computation [[link]](https://inst.eecs.berkeley.edu/~ee249/fa07/discussions/TSM.pdf)
+- Compositional System-Level Design Exploration with Planning of High-Level Synthesis [[link]](https://pdfs.semanticscholar.org/5f48/8f513630be40bbd015fd6165cd04703db0fc.pdf)
+- Design Perspectives on 22nm CMOS and Beyond [[link]](http://ieeexplore.ieee.org/document/5227192/)
+- Discerning the Dominant Out-of-Order Performance Advantage: Is it Speculation or Dynamism [[link]](http://dl.acm.org/citation.cfm?id=2451143)
+- Efficient Interaction between OS and Architecture in Heterogeneous Platforms [[link]](http://dl.acm.org/citation.cfm?id=1945032)
+- The Discipline of Embedded Systems Design [[link]](http://www-verimag.imag.fr/~sifakis/Computer_ESdiscipline.pdf)
+- IBM Power Edge of Network Processor: A Wire-Speed System on a Chip [[link]](http://dl.acm.org/citation.cfm?id=1978281)
+- Integrated Anaylsis of Power and Performance for Pipelined Microprocessors [[link]](http://dl.acm.org/citation.cfm?id=2250077)
 - The Optimum Pipeline Depth for a Microprocessor
 - A Case for OS-Friendly Hardware Accelerators
 - Petri Nets: Properties, Analysis and Applications
