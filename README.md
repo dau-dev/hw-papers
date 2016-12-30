@@ -82,12 +82,12 @@ Organized by topic. Will reorganize as I go.
 - SNNAP: Approximate Computing on Programmable SoCs via Neural Acceleration [[link]](https://homes.cs.washington.edu/~luisceze/publications/snnap-hpca-2015.pdf)
 
 ## Databases
-- A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort
-- High Throughput Heavy Hitter Aggregation for Modern SIMD Processors
-- Ibex - An Intelligent Storage Enginer with Support for Advanced SQL Off-loading
-- Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems
-- Rethinking SIMD Vectorization for In-Memory Databases
-- Scalable Aggregation on Multicore Processors
+- A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort [[link]](http://www.cs.columbia.edu/~orestis/sigmod14I.pdf)
+- High Throughput Heavy Hitter Aggregation for Modern SIMD Processors [[link]](http://www.cs.columbia.edu/~orestis/damon13.pdf)
+- Ibex - An Intelligent Storage Enginer with Support for Advanced SQL Off-loading [[link]](http://www.vldb.org/pvldb/vol7/p963-woods.pdf)
+- Massively Parallel Sort-Merge Joins in Main Memory Multi-Core Database Systems [[link]](http://vldb.org/pvldb/vol5/p1064_martina-cezaraalbutiu_vldb2012.pdf)
+- Rethinking SIMD Vectorization for In-Memory Databases [[link]](http://www.cs.columbia.edu/~orestis/sigmod15.pdf)
+- Scalable Aggregation on Multicore Processors [[link]](http://www.cse.ust.hk/damon2011/proceedings/p1-ye.pdf)
 - Vector Extensions for Decision Support DBMS Acceleration
 
 ## Memory
