@@ -91,16 +91,16 @@ Organized by topic. Will reorganize as I go.
 - Vector Extensions for Decision Support DBMS Acceleration
 
 ## Memory
-- Accelerator Memory Reuse in the Dark Silicon Era
-- What Every Programmer Should Know About Memory
-- Tardis: Time Traveling Coherence Algorithm for Distributed Shared Memory
-- Why On-Chip Cache Coherence Is Here to Stay
+- Accelerator Memory Reuse in the Dark Silicon Era [[link]](http://www.cs.columbia.edu/~luca/research/cota_CAL14.pdf)
+- What Every Programmer Should Know About Memory [[link]](https://www.akkadia.org/drepper/cpumemory.pdf)
+- Tardis: Time Traveling Coherence Algorithm for Distributed Shared Memory [[link]](http://ieeexplore.ieee.org/document/7429308/)
+- Why On-Chip Cache Coherence Is Here to Stay [[link]](http://research.cs.wisc.edu/multifacet/papers/tr2011-1_coherence_stays.pdf)
 
 ## Security
-- MAGIC: Malicious Aging in Circuits/Cores
-- RSA Key Extraction via Low-Bandwith Acoustic Cryptanalysis
-- Stealing Keys from PCs using a Radio: Cheap Electromagnetic Attacks on Windowed Exponentiation
+- MAGIC: Malicious Aging in Circuits/Cores [[link]](https://drive.google.com/file/d/0B9i8WqXLW451MTIyM2lqR1lpZ3M/view?pli=1)
+- RSA Key Extraction via Low-Bandwith Acoustic Cryptanalysis [[link]](http://www.cs.tau.ac.il/%7Etromer/papers/acoustic-20131218.pdf)
+- Stealing Keys from PCs using a Radio: Cheap Electromagnetic Attacks on Windowed Exponentiation [[link]](http://www.cs.tau.ac.il/%7Etromer/papers/radioexp.pdf)
 
 ## Other
-- The Manchester Prototype Dataflow Computer
+- The Manchester Prototype Dataflow Computer [[link]](https://pdfs.semanticscholar.org/a81e/ccf02dc85e08fb34212ae56842366fe38678.pdf)
 
