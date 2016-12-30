@@ -50,14 +50,14 @@ Organized by topic. Will reorganize as I go.
 
 ## Accelerators
 - A Defect-Tolerant Accelerator for Emerging High-Performance Applications
-- Accelerator-Rich CMPs: From Concept to Real Hardware
-- Algorithms for High-Throughput Disk-to-Disk Sorting
-- Optimizing Parallel Bitonic Sort
-- Conservation Cores: Reducing the Energy of Mature Computations
-- Hardware Acceleration of Key-Value Stores
-- Tagged Up/Down Sorter - A Hardware Priority Queue
-- Meet the Walkers: Accelerating Index Traversals for In-Memory Databases
-- N Queens on an FPGA: Mathematics, Programming, or Both?
+- Accelerator-Rich CMPs: From Concept to Real Hardware [[link]](http://ieeexplore.ieee.org/document/6657039/)
+- Algorithms for High-Throughput Disk-to-Disk Sorting [[link]](https://www.cs.utah.edu/~hari/files/pubs/sc13.pdf)
+- Optimizing Parallel Bitonic Sort [[link]](http://web.mst.edu/~ercal/387/slides/Bitonic-Sort97.pdf)
+- Conservation Cores: Reducing the Energy of Mature Computations [[link]](https://cseweb.ucsd.edu/~swanson/papers/Asplos2010CCores.pdf)
+- Hardware Acceleration of Key-Value Stores [[link]](https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F14/projects/reports/project13_report.pdf)
+- Tagged Up/Down Sorter - A Hardware Priority Queue [[link]](http://www.cl.cam.ac.uk/~swm11/research/papers/spipe/cj3.ps)
+- Meet the Walkers: Accelerating Index Traversals for In-Memory Databases [[link]](https://pdfs.semanticscholar.org/dcae/15f23b8e60a32d1c271ebb5b800552500f42.pdf)
+- N Queens on an FPGA: Mathematics, Programming, or Both? [[link]](http://doc.utwente.nl/94663/1/NQueensOnFPGA.pdf)
 - A Reconfigurable Fabric for Accelerating Large-Scale Datacenter Services 
 - Sorting on Architecturally Diverse Computer Systems
 - SQRL: Hardware Accelerator for Collecting Software Data Structures
