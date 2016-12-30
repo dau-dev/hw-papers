@@ -58,28 +58,28 @@ Organized by topic. Will reorganize as I go.
 - Tagged Up/Down Sorter - A Hardware Priority Queue [[link]](http://www.cl.cam.ac.uk/~swm11/research/papers/spipe/cj3.ps)
 - Meet the Walkers: Accelerating Index Traversals for In-Memory Databases [[link]](https://pdfs.semanticscholar.org/dcae/15f23b8e60a32d1c271ebb5b800552500f42.pdf)
 - N Queens on an FPGA: Mathematics, Programming, or Both? [[link]](http://doc.utwente.nl/94663/1/NQueensOnFPGA.pdf)
-- A Reconfigurable Fabric for Accelerating Large-Scale Datacenter Services 
-- Sorting on Architecturally Diverse Computer Systems
-- SQRL: Hardware Accelerator for Collecting Software Data Structures
-- The Accelerator Store framework for high-performance, low-power accelerator-based systems
-- Thin Servers with Smart Pipes: Designing SoC Accelerators for Memcached
-- High Throughput and Large Capacity Pipelined Dynamic Search Tree on FPGA
-- Q100: The Architecture and Design of a Database Processing Unit
-- Navigating Big Data with High-Throughput, Energy-Efficient Data Partitioning
-- CortexSuite: A Synthetic Brain Benchmark Suite
-- DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning
-- A Dynamically Configurable Coprocessor for Convolutional Neural Networks
-- A Digital Neurosynaptic Core Using Embedded Crossbar Memory with 45pJ per Spike in 45nm
-- Hardware spiking neurons design: analog or digital?
-- Low-Power, High-Performance Analog Neural Branch Prediction
-- NeuFlow: A Runtime Reconfigurable Dataflow Processor for Vision
-- Neural Acceleration for General-Purpose Approximate Programs
-- Neural Network Stream Processing Core (NnSP) for Embedded Systems
-- Probabilistic synaptic weighting in a reconfigurable network of VLSI integrate-and-fire neurons
-- A 201.4 GOPS 496 mW Real-Time Multi-Object Recognition Processor With Bio-Inspired Neural Perception Engine
-- Recurrant Neural Networks Hardware Implementation on FPGA
-- Silicon Neurons That Compute
-- SNNAP: Approximate Computing on Programmable SoCs via Neural Acceleration
+- A Reconfigurable Fabric for Accelerating Large-Scale Datacenter Services [[link]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Catapult_ISCA_2014.pdf)
+- Sorting on Architecturally Diverse Computer Systems [[link]](https://pdfs.semanticscholar.org/d958/fac216e21146ee2d085ac0b8e0a16839e1d9.pdf)
+- SQRL: Hardware Accelerator for Collecting Software Data Structures [[link]](http://www.cs.utah.edu/wondp/sqrl.pdf)
+- The Accelerator Store framework for high-performance, low-power accelerator-based systems [[link]](http://ece.drexel.edu/mhempstead/pubs/10-cal-accelerator-store.pdf)
+- Thin Servers with Smart Pipes: Designing SoC Accelerators for Memcached [[link]](http://web.eecs.umich.edu/~twenisch/papers/isca13.pdf)
+- High Throughput and Large Capacity Pipelined Dynamic Search Tree on FPGA [[link]](http://courses.cs.washington.edu/courses/cse591n/11wi/papers/Yang10_DynSearchTree.pdf)
+- Q100: The Architecture and Design of a Database Processing Unit [[link]](http://arcade.cs.columbia.edu/q100-asplos14.pdf)
+- Navigating Big Data with High-Throughput, Energy-Efficient Data Partitioning [[link]](http://arcade.cs.columbia.edu/harp-isca13.pdf)
+- CortexSuite: A Synthetic Brain Benchmark Suite [[link]](http://cseweb.ucsd.edu/groups/bsg/papers/cortex-extended.pdf)
+- DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning 
+- A Dynamically Configurable Coprocessor for Convolutional Neural Networks [[link]](http://bayanbox.ir/view/6085450669568865775/paper-Translate18.pdf)
+- A Digital Neurosynaptic Core Using Embedded Crossbar Memory with 45pJ per Spike in 45nm [[link]](http://www.modha.org/papers/012.CICC1.pdf)
+- Hardware spiking neurons design: analog or digital? [[link]](http://ieeexplore.ieee.org/document/6252600/)
+- Low-Power, High-Performance Analog Neural Branch Prediction [[link]](ftp://ftp.cs.utexas.edu/pub/dburger/papers/MICRO08_predictor.pdf)
+- NeuFlow: A Runtime Reconfigurable Dataflow Processor for Vision [[link]](http://yann.lecun.com/exdb/publis/pdf/farabet-ecvw-11.pdf)
+- Neural Acceleration for General-Purpose Approximate Programs [[link]](ftp://ftp.cs.utexas.edu/pub/dburger/papers/MICRO12.pdf)
+- Neural Network Stream Processing Core (NnSP) for Embedded Systems [[link]](https://pdfs.semanticscholar.org/1a71/aaba93358ade10693e2dd438a2d02db657b5.pdf)
+- Probabilistic synaptic weighting in a reconfigurable network of VLSI integrate-and-fire neurons [[link]](http://132.239.25.6/papers/nn01.pdf)
+- A 201.4 GOPS 496 mW Real-Time Multi-Object Recognition Processor With Bio-Inspired Neural Perception Engine [[link]](http://ieeexplore.ieee.org/document/5357568/)
+- Recurrant Neural Networks Hardware Implementation on FPGA [[link]](https://arxiv.org/abs/1511.05552v1)
+- Silicon Neurons That Compute [[link]](https://web.stanford.edu/group/brainsinsilicon/documents/NEFonNeurogrid.pdf)
+- SNNAP: Approximate Computing on Programmable SoCs via Neural Acceleration [[link]](https://homes.cs.washington.edu/~luisceze/publications/snnap-hpca-2015.pdf)
 
 ## Databases
 - A Comprehensive Study of Main-Memory Partitioning and its Application to Large-Scale Comparison- and Radix-Sort
