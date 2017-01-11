@@ -24,6 +24,6 @@ Papers to read (or reread).
 - Race Logic: A Hardware Acceleration for Dynamic Programming Algorithms
 - Speculative Hardware/Software Co-Designed Floating-Point Multiply-Add Fusion
 
-####ReRead
+####Re-read
 - DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning
 
