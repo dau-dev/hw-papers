@@ -15,3 +15,15 @@ Organized by topic. Will reorganize as I go.
 ## Reading List
 Papers to read (or reread).
 
+####Read
+- ASIC Clouds: Specializing the Datacenter
+- DaDianNao: A Machine-Learning Supercomputer
+- ShiDianNao: Shifting Vision Processing Closer to the Sensor
+- Evaluation of an Analog Accelerator for Linear Algebra
+- Hardware Acceleration of Key-Value Stores
+- Race Logic: A Hardware Acceleration for Dynamic Programming Algorithms
+- Speculative Hardware/Software Co-Designed Floating-Point Multiply-Add Fusion
+
+####ReRead
+- DianNao: A Small-Footprint High-Throughput Accelerator for Ubiquitous Machine-Learning
+
